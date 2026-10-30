@@ -1,8 +1,9 @@
+
 # Ejercicios del 81 al 128 - Fundamentos de Álgebra
 
 ## Grafica las siguientes ecuaciones (Líneas rectas definidas por dos puntos)
 
-<img width="1600" height="1200" alt="4a874945-de22-4de0-932e-eea9e1492d54" src="https://web.whatsapp.com/b4e7c50c-2ed5-497a-b3b0-7f7dcac6175d" />
+<img width="1406" height="1600" alt="b4e7c50c-2ed5-497a-b3b0-7f7dcac6175d" src="https://github.com/user-attachments/assets/86d16e8f-560a-49a0-aa1e-f0e4bc650505" />
 
 ---
 
