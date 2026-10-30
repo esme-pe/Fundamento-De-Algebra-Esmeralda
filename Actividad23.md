@@ -2,6 +2,7 @@
 
 ## Grafica las siguientes ecuaciones (Líneas rectas definidas por dos puntos)
 
+<img width="1600" height="1200" alt="4a874945-de22-4de0-932e-eea9e1492d54" src="https://web.whatsapp.com/b4e7c50c-2ed5-497a-b3b0-7f7dcac6175d" />
 
 ---
 
